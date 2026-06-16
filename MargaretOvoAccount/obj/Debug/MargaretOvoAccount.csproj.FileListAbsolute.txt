@@ -1,0 +1,52 @@
+C:\Users\4a08\source\repos\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.exe.config
+C:\Users\4a08\source\repos\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.exe
+C:\Users\4a08\source\repos\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.pdb
+C:\Users\4a08\source\repos\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csprojAssemblyReference.cache
+C:\Users\4a08\source\repos\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.Properties.Resources.resources
+C:\Users\4a08\source\repos\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.GenerateResource.cache
+C:\Users\4a08\source\repos\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.CoreCompileInputs.cache
+C:\Users\4a08\source\repos\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.exe
+C:\Users\4a08\source\repos\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.pdb
+C:\Users\4a08\source\repos\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.Form1.resources
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.exe.config
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.exe
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.pdb
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csprojAssemblyReference.cache
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.Form1.resources
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.Properties.Resources.resources
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.GenerateResource.cache
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.CoreCompileInputs.cache
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.exe
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.pdb
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.exe.config
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.exe
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.pdb
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.AssemblyReference.cache
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.Form1.resources
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.Properties.Resources.resources
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.GenerateResource.cache
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.CoreCompileInputs.cache
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.exe
+D:\College\Semester 2\OOP\Tugas\160425067_Margaret_Week3B\160425067_Margaret_Week3B\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.pdb
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormMain.resources
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormRegister.resources
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormBuy.resources
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormDisplay.resources
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormRemove.resources
+C:\Users\4a08\Documents\OOP Margaret\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormTopUp.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.exe.config
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.exe
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\bin\Debug\MargaretOvoAccount.pdb
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.AssemblyReference.cache
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.Form1.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormBuy.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormDisplay.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormMain.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormRegister.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormRemove.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.FormTopUp.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.Properties.Resources.resources
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.GenerateResource.cache
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.csproj.CoreCompileInputs.cache
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.exe
+D:\College\Semester 2\OOP\Tugas\MargaretOvoAccount\MargaretOvoAccount\obj\Debug\MargaretOvoAccount.pdb
